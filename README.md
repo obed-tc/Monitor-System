@@ -1,4 +1,5 @@
 # Monitor System
+![image](https://github.com/user-attachments/assets/bbfb7f55-fa1f-4add-94d4-a857e4b3a43f)
 
 ## Descripción
 
